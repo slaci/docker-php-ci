@@ -1,4 +1,4 @@
-FROM slaci/php-fpm
+FROM slaci/php-fpm:7.2
 
 LABEL maintainer="slaci1@gmail.com"
 
